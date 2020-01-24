@@ -1,0 +1,1 @@
+const calculateTime = date => new Date(date).getTime();
