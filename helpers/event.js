@@ -1,4 +1,4 @@
-const calculateTime = date => new Date(date).getTime();
+
 
 module.exports = {
     orderInAscendingOrderById: data => {

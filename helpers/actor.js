@@ -33,6 +33,7 @@ module.exports = {
   return actorEvents;
  },
 
+
  orderByComplexity: data => {
   const result = data.sort((a,b) => {
     const a1 = Number(a.num_of_event);
